@@ -1,0 +1,11 @@
+pandas
+Pillow
+detetime
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Click
+Werkzeug
+gunicorn
+requests
